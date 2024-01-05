@@ -1,0 +1,9 @@
+test\MyAccountTest.class
+test\LoginTest.class
+test\AppiumSetup.class
+test\LoginUnSuccesTest.class
+services\PageControl.class
+services\UserLogin.class
+test\MyPersonalInformationsTest.class
+nesineotomasyon\AppTest.class
+test\LoginSuccesTest.class
